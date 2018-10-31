@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.databinding:adapters:3.1.2] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\adapters-3.1.2.aar\df7bbf475d6084616c5b4eaed40f9a3f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.2] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\library-3.1.2.aar\7eb1875b57ee88242f0eebbb6b6bd997\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\120c23d46dd4e3d48c06fe68c14ad3f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\664e1925f506356cfd91ac4d29856e4e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e0a68bac3ee7c0f3f154f0e7af61106a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c615eaf29cdd367c84048bb590e182ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4216bf372a4f4631a85aeeae7a8e2fa2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8f9eaa233833d5f9c34a2d4792f87361\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0af8924df1c4d7511999f3a7b1771196\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ac9f48fc3dbde7affd58c224849260c8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\86e90e63c4c9569b23147e26bb1453f7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\42dfab9e7f42e12b90a2e6840887c1bb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c0b303c1ce0285118aaedc4991cffa46\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f77336bfd876d131222fe07d1695bf30\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\664e1925f506356cfd91ac4d29856e4e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\664e1925f506356cfd91ac4d29856e4e\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.packt.abuzar.mvvm.MainActivity
+ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.1.2] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\adapters-3.1.2.aar\df7bbf475d6084616c5b4eaed40f9a3f\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.2] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\adapters-3.1.2.aar\df7bbf475d6084616c5b4eaed40f9a3f\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.2] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\library-3.1.2.aar\7eb1875b57ee88242f0eebbb6b6bd997\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.2] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\library-3.1.2.aar\7eb1875b57ee88242f0eebbb6b6bd997\AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\120c23d46dd4e3d48c06fe68c14ad3f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\120c23d46dd4e3d48c06fe68c14ad3f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\664e1925f506356cfd91ac4d29856e4e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\664e1925f506356cfd91ac4d29856e4e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e0a68bac3ee7c0f3f154f0e7af61106a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e0a68bac3ee7c0f3f154f0e7af61106a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c615eaf29cdd367c84048bb590e182ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c615eaf29cdd367c84048bb590e182ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4216bf372a4f4631a85aeeae7a8e2fa2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4216bf372a4f4631a85aeeae7a8e2fa2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8f9eaa233833d5f9c34a2d4792f87361\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8f9eaa233833d5f9c34a2d4792f87361\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0af8924df1c4d7511999f3a7b1771196\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0af8924df1c4d7511999f3a7b1771196\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ac9f48fc3dbde7affd58c224849260c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ac9f48fc3dbde7affd58c224849260c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\86e90e63c4c9569b23147e26bb1453f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\86e90e63c4c9569b23147e26bb1453f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\42dfab9e7f42e12b90a2e6840887c1bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\42dfab9e7f42e12b90a2e6840887c1bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c0b303c1ce0285118aaedc4991cffa46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c0b303c1ce0285118aaedc4991cffa46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f77336bfd876d131222fe07d1695bf30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\abuzar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f77336bfd876d131222fe07d1695bf30\AndroidManifest.xml:20:5-44
+INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data\Work\PersonelWork\PackVideoApps\sec1\MVPApp\app\src\main\AndroidManifest.xml

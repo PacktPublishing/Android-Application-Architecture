@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jun 05 13:37:03 SGT 2018
+0.baseType=DIRECTORY
+0.base=D\:\\Data\\Work\\PersonelWork\\PackVideoApps\\sec1\\MVPApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
