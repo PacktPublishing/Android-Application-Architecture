@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.packt.abuzar.extractingmodel.MainViewModel" />
+    </data>
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+        <ListView
+            android:id="@+id/project_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:projectItem="@{viewModel.projectListings}" />
+
+    </android.support.constraint.ConstraintLayout>
+
+</layout>

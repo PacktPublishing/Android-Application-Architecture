@@ -1,0 +1,4 @@
+#Sun Sep 30 22:11:52 SGT 2018
+base.0=D\:\\Data\\Work\\PersonelWork\\PackVideoApps\\Sec4\\MVP\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
