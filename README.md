@@ -1,5 +1,7 @@
 # Android Application Architecture [Video]
 This is the code repository for [Android Application Architecture [Video]](https://www.packtpub.com/application-development/android-application-architecture-video?utm_source=github&utm_medium=repository&utm_campaign=9781789341935), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+
+NOTE: For Section 2 codes- Click here: https://drive.google.com/open?id=1qq808_CrbCZ_2ZiXPD5yttdjDvyjG5xs
 ## About the Video Course
 Android OS has the largest installation base of any operating system in the world. In this course we will learn the skills it takes to build robust, maintainable Android applications. We will focus on architecture and design concepts that make decision making easy, allowing us to focus on developing features while not getting bogged down in broken code or too much up-front planning. We’ll learn that, with the right understanding and preparation, the process of Android application development can be as rewarding as using and sharing the applications we develop.
 
